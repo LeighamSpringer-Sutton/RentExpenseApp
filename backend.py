@@ -6,7 +6,7 @@ import os
 
 
 
-#to do --percentile relative
+
 CITIES = ["Vancouver", "Edmonton", "Toronto", "Montreal", "Ottawa", \
           "Calgary", "Hamilton", "Winnipeg", "Quebec-City", "Newmarket-ON-Canada","Halifax"]
 
