@@ -33,12 +33,10 @@
  
  
 
-# Example Images
+# Main page
 ![](rentexample.png)
-<h3> Main page</h3>
-
-<h3>Quebec-City </h3>
+# Quebec-City
 ![](QuebecCityex.png)
-<h3> Vancouver </h3>
+# Vancouver 
 ![](Vancouverex.png)
 
