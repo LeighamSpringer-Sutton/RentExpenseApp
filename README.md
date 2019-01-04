@@ -34,9 +34,9 @@
  
 
 # Example Images
-
-<h3> Main page</h3>
 ![](rentexample.png)
+<h3> Main page</h3>
+
 <h3>Quebec-City </h3>
 ![](QuebecCityex.png)
 <h3> Vancouver </h3>
