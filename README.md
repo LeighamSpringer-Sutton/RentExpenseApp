@@ -39,5 +39,5 @@
 ![](QuebecCityex.png)
 # Vancouver 
 ![](Vancouverex.png)
-# Savings Example 
+# Savings Statistics Example 
 ![](savingsEx.png)
