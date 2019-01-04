@@ -33,7 +33,7 @@
  
  
 
-
+<h1> Example Images </h1>
 # Main page
 ![](rentexample.png)
 # Quebec-City
